@@ -7,7 +7,7 @@ public class Dollar {
         return new Dollar(amount*multiplier);
     }
 
-//    public boolean equals(Object object){
+    //    public boolean equals(Object object){
 //        return true;
 //    }
     public boolean equals(Object object){
